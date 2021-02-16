@@ -2,7 +2,7 @@
 
 [Live Link](https://dndparty.vercel.app/ "Live Link")
 
-[Server Repo](https://github.com/Richardscripts/Server-Dndparty)
+[Server Repo](https://github.com/nlomba1Thinkful/DndParty-Server)
 
 DndParty is a website for users to create and join parties to experience the greatest roleplaying tabletop game of all time: *Dungeons and Dragons!*
 
