@@ -1,6 +1,6 @@
 # DndParty 
 
-[Live Link](https://dndparty.vercel.app/ "Live Link")
+[Live Link](https://dnd-party-1.vercel.app/ "Live Link")
 
 [Server Repo](https://github.com/nlomba1Thinkful/DndParty-Server)
 
